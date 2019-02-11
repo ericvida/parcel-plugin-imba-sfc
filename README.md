@@ -1,7 +1,17 @@
 # parcel-plugin-imba
 Contains
 - Hot Module Reloading
-- Single File Components (Sass/Scss/Css/Stylus within Imba Files)
+- Single File Components (Styles within Imba files)
+    Example: 
+    ```
+    tag App
+      def render
+        <self>
+          <h1> "hello World"
+    sass (or stylus/scss/etc)
+      .App
+        background-color: white
+    ```
 - Supports Imba Asset Type
 - Loads @pushqrdx's Imba PR with content feature (slots)
 
