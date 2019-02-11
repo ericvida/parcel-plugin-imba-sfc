@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shreeve/parcel-plugin-imba.git"
+    "url": "git+https://github.com/iamtirado/parcel-plugin-imba.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/shreeve/parcel-plugin-imba/issues"
+    "url": "https://github.com/iamtirado/parcel-plugin-imba/issues"
   },
-  "homepage": "https://github.com/shreeve/parcel-plugin-imba#readme",
+  "homepage": "https://github.com/iamtirado/parcel-plugin-imba#readme",
   "dependencies": {
     "de-indent": "^1.0.2",
     "md5": "^2.2.1",
