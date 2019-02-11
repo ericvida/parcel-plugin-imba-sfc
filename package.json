@@ -21,6 +21,7 @@
   "dependencies": {
     "de-indent": "^1.0.2",
     "md5": "^2.2.1",
-    "terser": "^3.16.1"
+    "terser": "^3.16.1",
+    "imba": "github:pushqrdx/imba"
   }
 }
